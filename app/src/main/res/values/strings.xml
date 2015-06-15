@@ -1,0 +1,23 @@
+<resources>
+    <!-- app name-->
+    <string name="app_name">Nagella\'s App Portfolio</string>
+    <!-- settings-->
+    <string name="action_settings">Settings</string>
+    <!--header-->
+    <string name="app_header">Nagella\'s Nanodegree Apps!</string>
+    <!--button text's-->
+    <string name="button_spotify_streamer">SPOTIFY STREAMER</string>
+    <string name="button_scores_app">SCORES APP</string>
+    <string name="button_library_app">LIbrary APP</string>
+    <string name="button_built_it_bigger">BUITD IT BIGGER</string>
+    <string name="button_xyz_reader">XYZ READER</string>
+    <string name="button_my_own_app">CAPSTONE:MY OWN APP</string>
+    <!--button tag's-->
+    <string name="tag_toast_subscript">This button will launch</string>
+    <string name="tag_spotify_streamer">my spotify streamer app!</string>
+    <string name="tag_scores_app">my scores app!</string>
+    <string name="tag_library_app">my library app!</string>
+    <string name="tag_built_it_bigger">my build it bigger app!</string>
+    <string name="tag_xyz_reader">my xyz reader app!</string>
+    <string name="tag_my_own_app">my capstone app!</string>
+</resources>
