@@ -11,7 +11,7 @@
     <string name="button_library_app">LIbrary APP</string>
     <string name="button_built_it_bigger">BUITD IT BIGGER</string>
     <string name="button_xyz_reader">XYZ READER</string>
-    <string name="button_my_own_app">CAPSTONE: MY OWN APP</string>
+    <string name="button_my_own_app">CAPSTONE: MY OWN APP!</string>
     <!--button tag's-->
     <string name="tag_toast_subscript">This button will launch</string>
     <string name="tag_spotify_streamer">my spotify streamer app!</string>
