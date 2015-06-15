@@ -125,6 +125,7 @@
             android:paddingBottom="@dimen/button_bottom_padding"
             android:textStyle="bold"
             android:textAppearance="@android:style/TextAppearance.Large.Inverse"
+            android:textColor="@color/orange"
             android:layout_below="@id/button_xyz_reader"
             android:onClick="displayToastMessage"
             android:tag="my own app"
